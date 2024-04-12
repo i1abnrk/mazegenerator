@@ -1,7 +1,7 @@
 # Maze Generator
 
 This program generates a random black and white maze image. The mazes that are generated can be solved with <a href="//github.com/exciteabletom/mazesolver">mazesolver</a>
-   
+    -@i1 cloning this to make it dance to beat-detection. Docs soon
 ## Installing
 
 Check that your python version is >=3.5 with `python3 -V`.
